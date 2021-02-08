@@ -14,6 +14,7 @@ Here objects contains 2 things data and code. Data can be in the form of fields.
 6. [Polymorphism](https://www.javatpoint.com/runtime-polymorphism-in-java)
 
 
+
 1. **Object:-**
 
 Objects are conceptually similar to real-world objects. They too consist of state and related behavior. An object stores it’s state in fields and exposes it’s behavior through methods. In Java we can create object using ‘new’ keyword.
