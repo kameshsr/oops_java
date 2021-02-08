@@ -13,7 +13,7 @@ Here objects contains 2 things data and code. Data can be in the form of fields.
 5. [Abstraction](https://www.javatpoint.com/abstract-class-in-java)
 6. [Polymorphism](https://www.javatpoint.com/runtime-polymorphism-in-java)
 
-
+__
 
 1. **Object:-**
 
